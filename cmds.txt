@@ -1,0 +1,11 @@
+GIT BASIC COMMANDS:
+git
+git config --global user.name ""
+git config --global user.email ""
+git init
+git clone <paste despoitory url>
+cd
+git status
+git add.
+git comit -m""
+git push orgin main
